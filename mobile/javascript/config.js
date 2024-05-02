@@ -255,7 +255,7 @@
 	bookConfig.largePageHeight = 2000;;
 	bookConfig.securityType = "1";
 	bookConfig.CreatedTime = "";
-	bookConfig.bookTitle = "VJTI Social Group";
+	bookConfig.bookTitle = "VJTI";
 	bookConfig.bookmarkCR = "98daa48535849ddf4dac410880ba1156166c12d4";
 	bookConfig.productName = "Flip PDF";
 	bookConfig.homePage = "http://www.flipbuilder.com";
